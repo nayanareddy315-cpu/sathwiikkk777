@@ -1,10 +1,6 @@
 # ⚡ Kanugula Sathwik — Portfolio & M.J.Ö.L.N.I.R. AI Assistant 🟢
 
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 
 > **Award-Winning Developer Portfolio & Interactive AI Assistant** designed for technical evaluation, showcasing foundational engineering in **C**, **Java**, **Data Structures & Algorithms**, and modern **Full-Stack Web Engineering**.
 
