@@ -1,5 +1,5 @@
 # ⚡ Kanugula Sathwik — Portfolio & M.J.Ö.L.N.I.R. AI Assistant 🟢
-
+https://democrats-equality-stuff-regarded.trycloudflare.com/
 ### Quick Start
 ```bash
 # 1. Clone repository
