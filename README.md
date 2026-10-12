@@ -1,5 +1,36 @@
 # ⚡ Kanugula Sathwik — Portfolio & M.J.Ö.L.N.I.R. AI Assistant 🟢
 
+### Quick Start
+```bash
+# 1. Clone repository
+git clone https://github.com/sathwikkk777/ks_files.git
+
+# 2. Navigate to project root
+cd ks_files
+
+# 3. Install dependencies
+npm install
+
+# 4. Start development server
+npm run dev
+```
+
+Open your browser at **`http://localhost:5173`** to view the application.
+
+---
+
+## 📦 Building for Production
+
+```bash
+# Compile TypeScript and generate optimized static bundle in dist/
+npm run build
+
+# Preview production build locally
+npm run preview
+```
+
+---
+
 
 
 > **Award-Winning Developer Portfolio & Interactive AI Assistant** designed for technical evaluation, showcasing foundational engineering in **C**, **Java**, **Data Structures & Algorithms**, and modern **Full-Stack Web Engineering**.
@@ -65,36 +96,6 @@ This portfolio is themed around an Asgardian / Gamma dual-power engineering phil
 - [Node.js](https://nodejs.org/) (version 18 or newer recommended)
 - `npm` or `pnpm`
 
-### Quick Start
-```bash
-# 1. Clone repository
-git clone https://github.com/sathwikkk777/ks_files.git
-
-# 2. Navigate to project root
-cd ks_files
-
-# 3. Install dependencies
-npm install
-
-# 4. Start development server
-npm run dev
-```
-
-Open your browser at **`http://localhost:5173`** to view the application.
-
----
-
-## 📦 Building for Production
-
-```bash
-# Compile TypeScript and generate optimized static bundle in dist/
-npm run build
-
-# Preview production build locally
-npm run preview
-```
-
----
 
 ## 👤 Author & Contact
 
